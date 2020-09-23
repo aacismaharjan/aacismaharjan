@@ -2,10 +2,10 @@
 
 ## I'm a frontend Web Developer!
 
-- 🔭 I’m currently working on a [Portfolio][https://aacismaharjan.github.io/]!
+- 🔭 I’m currently working on a [Coolors]!
 - 🌱 I’m currently learning React.js 😎
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Feel comfortable with frontend languages.
+- 👯 I’m looking for a mentor who can guide me with React + Django journey.
+- 🥅 2020 Goals: Feel comfortable with ReactJS.
 - ⚡ Fun fact: I love walking in streets at night
 
 <br/>
